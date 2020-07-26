@@ -3,7 +3,7 @@
 My name is Tiago and currently I'm a student of Computer Science at UFPR (Universidade Federal do Paraná)
 
 - 🔭 I’m currently working on [ADEGA](https://petcomputacaoufpr.github.io/adega/web_pages/index.html)
-- 🌱 In the moment I’m learning JavaScript, Python and others tecnologies.
+- 🌱 In the moment I’m learning JavaScript, Python and others technologies.
 - 📫 How to reach me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-follow-0088ff.svg?logo=instagram&logoColor=white)](https://www.instagram.com/tecseit/)
