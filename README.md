@@ -16,8 +16,8 @@
 
 
 <div class"d-flex">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=tiagoserique&langs_count=10&hide=makefile,Jupyter Notebook&exclude_repo=vim-mods">
-	<img src="https://github-readme-stats.vercel.app/api?username=tiagoserique&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=tiagoserique&langs_count=10&hide=makefile,Jupyter Notebook&exclude_repo=vim-mods">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoserique&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true">
 </div>
 <br>
 
