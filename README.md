@@ -3,18 +3,34 @@
 
 <div>
 	<ul>
-		<li>👨‍💻 Computer Network Technician at <a href="https://www.ifap.edu.br/">IFAP</a></li>
-		<li>💻 BSc Computer Science at <a href="https://www.ufpr.br/portalufpr/">UFPR</a></li>
+		<li>🇧🇷 Brazilian</li>
+		<li>🎓 Computer Network Technician at <a href="https://www.ifap.edu.br/">IFAP</a></li>
+		<li>🎓 BSc Computer Science at <a href="https://www.ufpr.br/portalufpr/">UFPR</a></li>
 	</ul>
 </div>
-<br>
 
 
-<div class"d-flex">
+<h2>Interests</h2>
+
+<div>
+	<ul>
+		<li>🎮 Gaming </li>
+		<li>🎶 Music </li>
+		<li>🌐 Full Stack Development</li>
+		<li>🎲 Data Analysis</li>
+	</ul>
+</div>
+
+
+<h2>Some stats that could be interesting</h2>
+
+<div>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=tiagoserique&langs_count=10&hide=makefile&exclude_repo=vim-mods" alt="top languages">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoserique&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Tiago Serique's GitHub Stats">
 </div> 
-<br>
+
+
+<h2>Find me at</h2>
 
 <div>
 	<a href="https://www.linkedin.com/in/tiago-serique"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
