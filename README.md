@@ -29,6 +29,7 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoserique&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Tiago Serique's GitHub Stats">
 </div> 
 
+<br>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
