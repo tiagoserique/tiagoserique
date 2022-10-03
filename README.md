@@ -5,7 +5,7 @@
 	<ul>
 		<li>🇧🇷 Brazilian</li>
 		<li>🎓 Computer Network Technician at <a href="https://www.ifap.edu.br/">IFAP</a></li>
-		<li>🎓 BSc Computer Science at <a href="https://www.ufpr.br/portalufpr/">UFPR</a></li>
+		<li>🖥️ BSc Computer Science at <a href="https://www.ufpr.br/portalufpr/">UFPR</a></li>
 	</ul>
 </div>
 
