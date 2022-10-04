@@ -17,7 +17,7 @@
 </div>
 
 
-<h2>Some stats that could be interesting</h2>
+<h2>Some stats that could be interesting (or not 😁)</h2>
 
 <div align="center">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=tiagoserique&langs_count=10&hide=makefile&exclude_repo=vim-mods" alt="top languages">
