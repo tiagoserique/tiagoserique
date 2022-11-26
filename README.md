@@ -13,7 +13,7 @@
 <h2>Interests</h2>
 
 <div align="center">
-	🎮 Gaming 🎶 Music 🌐 Full Stack Development 🎲 Data Analysis
+	🎮 Gaming 🎶 Music 🌐 Full Stack Development 🎲 Data Analysis 🖥️ Computer Network
 </div>
 
 
