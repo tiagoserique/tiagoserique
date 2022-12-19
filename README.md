@@ -16,6 +16,12 @@
 	🎮 Gaming 🎶 Music 🌐 Full Stack Development 🎲 Data Analysis 🖥️ Computer Network
 </div>
 
+<h2>Find me at</h2>
+
+<div>
+	<a href="https://www.linkedin.com/in/tiago-serique"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://www.instagram.com/tecseit/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
 
 <h2>Some stats that could be interesting</h2>
 
@@ -65,12 +71,3 @@ Shell                    2 repos             █░░░░░░░░░░�
 
  Last Updated on 19/12/2022 20:11:15 UTC
 <!--END_SECTION:waka-->
-
-
-
-<h2>Find me at</h2>
-
-<div>
-	<a href="https://www.linkedin.com/in/tiago-serique"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href="https://www.instagram.com/tecseit/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
