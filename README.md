@@ -26,8 +26,8 @@
 <h2>Some stats that could be interesting</h2>
 
 <div align="center">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=tiagoserique&langs_count=10&hide=makefile&exclude_repo=vim-mods" alt="top languages">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoserique&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Tiago Serique's GitHub Stats">
+	<img height="180em" src="https://tiagoserique.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=tiagoserique&langs_count=10&hide=makefile&exclude_repo=vim-mods" alt="top languages">
+	<img height="180em" src="https://tiagoserique.vercel.app/api?username=tiagoserique&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Tiago Serique's GitHub Stats">
 </div> 
 
 <br>
